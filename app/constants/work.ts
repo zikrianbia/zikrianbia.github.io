@@ -19,7 +19,7 @@ export const WORK_TIMELINE: WorkTimelinePoint[] = [
   {
     point: new THREE.Vector3(-3, -1, -6),
     year: '2021',
-    title: 'Eden Farm',
+    title: 'EdenFarm',
     subtitle: 'Software QA',
     position: 'left',
   },
@@ -33,8 +33,8 @@ export const WORK_TIMELINE: WorkTimelinePoint[] = [
   {
     point: new THREE.Vector3(1, 1, -12),
     year: '2023 - Present',
-    title: 'JobTech',
-    subtitle: 'Software QA',
+    title: 'Confidential',
+    subtitle: 'SQA @ AI B2B Startup',
     position: 'right',
   }
 ]

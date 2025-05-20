@@ -1,5 +1,12 @@
-# zikrianbia.github.io
+## Personal Website
 
-Do you feel like a Javascript Ninja? 
-wait a minute... 
-check this out first https://zikrianbia.github.io/
+
+## Tech Stack
+
+- Next.js
+- React
+- React-three-fiber
+- DREI
+- GSAP
+- Zustand
+- Tailwind

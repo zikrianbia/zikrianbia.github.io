@@ -13,7 +13,7 @@ export const FOOTER_LINKS: FooterLink[] = [
   },
   {
     name: 'Youtube',
-    icon: 'icons/youtube.svg',
+    icon: 'icons/spotify.svg',
     url: 'https://www.instagram.com/ziksq',
   },
   {
